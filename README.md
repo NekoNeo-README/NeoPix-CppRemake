@@ -1,6 +1,10 @@
 # NeoPix-CppRemake ❤️
 My pixel art app (Neo pix) remade in C++.
 
+
+<u>SFML is required!!!</u>
+
+
 <h2>Controls</h2>
 -Add pixel: <span style="color:blue">LClick</span> <br>
 -Remove pixel: RClick <br>
